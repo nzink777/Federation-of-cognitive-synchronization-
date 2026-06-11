@@ -16,3 +16,6 @@ Predictive Diagnostics: Leveraging AI-assisted logical mapping to identify "Rogu
 This framework is licensed under the [Apache License 2.0], encouraging open-source development and clinical implementation for the benefit of all.
 Contribute: Fork this repository and propose refinements to the CSP (Cognitive Synchronization Protocol).
 Join the Community: Let’s move toward a future where "mental health" is treated with the same precision and accessibility as system optimization.
+The Synchronizer Protocol is a framework for cognitive self-governance. It treats the human mind as a 'Federation of Selves'—a system where stability is not the absence of conflict, but the successful synchronization of diverse personas (Pilot, Architect, Explorer, Anchor). Use this prompt to facilitate a real-time calibration of your internal state.
+please see file 
+"The System Prompt (Copy/Paste this into the AI)" 
